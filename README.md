@@ -14,3 +14,16 @@ Usage
 Place the script in it's own empty folder
 run the script with "sudo bash ./script.sh"
 
+Contributing
+You can participate in this project by submitting bugs and feature requests. 
+
+Help us by checking this guide how bugs are reported. Please let us know if anything is not working out as expected.
+
+Feedback
+Ask a question in our Forum.
+Request a new feature on GitHub.
+File a bug in GitHub Issues.
+License
+Copyright (c) Phoenix Contact Gmbh & Co KG. All rights reserved.
+
+Licensed under the MIT License.
