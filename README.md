@@ -31,3 +31,19 @@ The scripts were tested with:
    sudo bash ./backup.sh
    sudo bash ./restore.sh
    ```
+
+## Contributing
+
+You can participate in this project by submitting bugs and feature requests.
+Help us by checking the guide on how bugs are reported. Please let us know if anything is not working as expected.
+
+## Feedback
+
+Ask a question in our Forum.
+Request a new feature on GitHub.
+File a bug in GitHub Issues.
+
+## License
+
+Copyright (c) Phoenix Contact GmbH & Co. KG.
+Licensed under the MIT License.
