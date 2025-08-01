@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project provides two bash scripts to **backup** and **restore** a PLCnext project, including configurations such as **WBM user management** and **firewall settings**.  
+This project provides two bash scripts to **backup** and **restore** a PLCnext project (without using PLCnext Eng.), including configurations such as **WBM user management** and **firewall settings**.  
 The idea is inspired by the PLCnext USA SDCardCopy project.
 
 The scripts were tested with:
