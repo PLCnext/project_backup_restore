@@ -21,7 +21,7 @@ if [ -d "$SD_PATH/$FOLDER_NAME" ]; then
     BACKUP_NAME="${FILENAME}.tar"
     
     # Create the archive
-    tar -cpf "$DEST/$BACKUP_NAME" -C "$SD_PATH" "$FOLDER_NAME"
+    tar -cpvf "$DEST/$BACKUP_NAME" -C "$SD_PATH" "$FOLDER_NAME"
     echo "✅ Backup successfully created: $DEST/$BACKUP_NAME"
 else
     echo "❌ Folder '$FOLDER_NAME' not found on the SD card."
