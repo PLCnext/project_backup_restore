@@ -28,8 +28,8 @@ The scripts were tested with:
 1. Place the scripts in their own **empty folder**
 2. Run the scripts using:
    ```bash
-   sudo bash ./backup.sh
-   sudo bash ./restore.sh
+   sudo bash ./backup_script.sh
+   sudo bash ./restore_script.sh
    ```
 
 ## Contributing
